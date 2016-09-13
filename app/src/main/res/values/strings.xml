@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XiangMVPDemo</string>
+    <string name="txt_user_name">请输入用户名</string>
+    <string name="text_password">请输入密码</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+</resources>
